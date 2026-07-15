@@ -10,3 +10,14 @@
  Протокол hysteria  tls 8443 порт
 1-
 2-
+новое подключение vless raw  443 c reality c flow 
+-
+новое подключение vless raw  4443 c reality c flow 
+-
+новое подключение vless Http  4443 без reality 
++
+новое подключение vless Http  443 без reality 
++
+новое подключение vless raw  443 без reality 
++
++
